@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"> 
+<img src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=flat&logo=amazonaws&logoColor=white"> 
+<img src="https://img.shields.io/badge/MS_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"> 
 
  </div>
 
