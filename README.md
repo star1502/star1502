@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-<!--
-**star1502/star1502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+star1502/star1502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+My Contribution : 
+
+I have Experience in : <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"> 
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
