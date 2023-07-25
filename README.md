@@ -7,14 +7,14 @@ star1502/star1502** is a ✨ _special_ ✨ repository because its `README.md` (t
    
 Here are some ideas to get you started:
 
-### My Contribution <br>
+### 🌱 My Contribution <br>
 
 |🚸 실종자 온라인 제보 서비스|📱 Mobile Client 🎨 Design|
 |:---:|:---:|
 |🎵 here! hear! 공유 플레이리스트 | 📱 Application 🎨 Front-end (Partial)|
 |📖 광운대학교 수강신청 클라이언트-서버 프로젝트 | 👩🏻‍💻 Team Leader + 🔙 Server 🗄️ Database|
 
-### 🛠 I have Experience in : <br>
+### 🛠 I have Experience in <br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
