@@ -5,10 +5,11 @@
 
 ### 🌱 My Contribution <br>
 
-|[🚸 실종자 온라인 제보 서비스](https://github.com/oss-talkative)|📱 Mobile Client 🎨 Design|
-|:---:|:---:|
-|🎵 here! hear! 공유 플레이리스트 | 📱 Application 🎨 Front-end (Partial)|
-|[📖 광운대학교 수강신청 클라이언트-서버 프로젝트](https://github.com/kw-appsw-crsreg) | 👩🏻‍💻 Team Leader + 🔙 Server 🗄️ Database|
+|On Service|🚇 실시간 지하철 정보|[▶️ Play](https://play.google.com/store/apps/details?id=kr.krr.metro)|📱 Mobile Client + 🔙 Server + 🗄️ Database|
+|:---:|:---:|:---:|:---:|
+|Team Project|🚸 실종자 온라인 제보 서비스|[🐱 Git](https://github.com/oss-talkative)|📱 Mobile Client 🎨 Design|
+|Team Project|🎵 here! hear! 공유 플레이리스트 || 📱 Application 🎨 Front-end (Partial)|
+|Team Project|📖 광운대학교 수강신청 클라이언트-서버 프로젝트|[🐱 Git](https://github.com/kw-appsw-crsreg)| 👩🏻‍💻 Team Leader + 🔙 Server 🗄️ Database|
 
 
 ### 🌱 My Repository <br>
