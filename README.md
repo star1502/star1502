@@ -31,5 +31,6 @@
 <img src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=flat&logo=amazonaws&logoColor=white"> 
 <img src="https://img.shields.io/badge/MS_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"> 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"> 
+<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white"> 
 
  </div>
