@@ -10,6 +10,7 @@
 |Team Project|🚸 실종자 온라인 제보 서비스|[🐱 Git](https://github.com/oss-talkative)|📱 Mobile Client 🎨 Design|
 |Team Project|🎵 here! hear! 공유 플레이리스트 || 📱 Application 🎨 Front-end (Partial)|
 |Team Project|📖 광운대학교 수강신청 클라이언트-서버 프로젝트|[🐱 Git](https://github.com/kw-appsw-crsreg)| 👩🏻‍💻 Team Leader<br>🔙 Server 🗄️ Database|
+|Team Project|🤖 안드로이드 Compose 앱|Private| 📱 Application 🎨 Front-end|
 
 
 ### 🌱 My Repository <br>
