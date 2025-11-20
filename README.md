@@ -5,7 +5,7 @@
 
 ### 🌱 My Contribution <br>
 
-|On Service|🚇 실시간 지하철 정보|[▶️ Play](https://play.google.com/store/apps/details?id=kr.krr.metro)<br>[🍎App Store](https://apps.apple.com/au/app/%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%A7%80%ED%95%98%EC%B2%A0-%EC%A0%95%EB%B3%B4-%EC%97%B4%EC%B0%A8%EC%A0%95%EB%B3%B4-%EC%A7%80%EC%97%B0%EC%A0%95%EB%B3%B4/id6736633895)|📱 Mobile Client<br>🔙 Server<br>🗄️ Database<br>💬 API Structure|
+|Discontinued|🚇 실시간 지하철 정보|~~[▶️ Play](https://play.google.com/store/apps/details?id=kr.krr.metro)~~<br>~~[🍎App Store](https://apps.apple.com/au/app/%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%A7%80%ED%95%98%EC%B2%A0-%EC%A0%95%EB%B3%B4-%EC%97%B4%EC%B0%A8%EC%A0%95%EB%B3%B4-%EC%A7%80%EC%97%B0%EC%A0%95%EB%B3%B4/id6736633895)~~|📱 Mobile Client<br>🔙 Server<br>🗄️ Database<br>💬 API Structure|
 |:---:|:---:|:---:|:---:|
 |Team Project|🚸 실종자 온라인 제보 서비스|[🐱 Git](https://github.com/oss-talkative)|📱 Mobile Client 🎨 Design|
 |Team Project|🎵 here! hear! 공유 플레이리스트 || 📱 Application 🎨 Front-end (Partial)|
