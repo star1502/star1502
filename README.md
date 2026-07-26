@@ -24,14 +24,18 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=CSharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"> 
+<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white"> 
+<img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat&logo=swift&logoColor=white"> 
+<img src="https://img.shields.io/badge/Kotlin Multiplatform-7F52FF?style=flat&logo=Kotlin&logoColor=white"> 
+<br>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"> 
 <img src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=flat&logo=amazonaws&logoColor=white"> 
 <img src="https://img.shields.io/badge/MS_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"> 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"> 
-<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white"> 
 
  </div>
