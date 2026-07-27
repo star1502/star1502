@@ -2,6 +2,9 @@
 > **사람을 위한 기술을 지향합니다.**
 
 **Department of Electronics and Communications Engineering, double majored in School of Software**
+
+**Currently Graduate School**
+
  <div align="center">
    
 
